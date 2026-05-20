@@ -29,7 +29,7 @@ This project allows users to add expenses, view them in a table, and calculate t
 * Total Expense button
 * Expense records displayed in a table
 
-  **How It Works**
+**How It Works**
   
 1 User enters:
 *  Date
