@@ -20,6 +20,7 @@ This project allows users to add expenses, view them in a table, and calculate t
 * File Handling
 * ArrayList
 * JTable & DefaultTableModel
+
 **Output**
 
 
