@@ -23,6 +23,13 @@ This project allows users to add expenses, view them in a table, and calculate t
 
 **Output**
 
+Run this commands:
+
+javac ExpenseTracker.java
+
+java ExpenseTracker
+
+![image_alt](https://github.com/sarikasadula/Expense-Tracker/blob/905390133a21203b8abb79006637ead43980de86/output.png)
 
 **Main Interface**
 * Input fields for date, category, and amount
