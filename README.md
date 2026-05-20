@@ -30,12 +30,15 @@ This project allows users to add expenses, view them in a table, and calculate t
 * Expense records displayed in a table
 
   **How It Works**
+  
 1 User enters:
 *  Date
 *  Expense Category
 *  Amount
+
 2 Click Add Expense
 *  Expense gets added to the table
 *  Data is stored in expenses.txt
+  
 3 Click Total
 *  Displays the total expenses using a popup message
