@@ -1,6 +1,8 @@
 # Expense-Tracker
+
 A simple Java Swing-based Expense Tracker application that helps users manage daily expenses efficiently.
 This project allows users to add expenses, view them in a table, and calculate the total expense amount.
+
 **Features:**
 * Add expense details:
 *  Date
@@ -11,6 +13,7 @@ This project allows users to add expenses, view them in a table, and calculate t
 * Store expense records in a text file (expenses.txt)
 * User-friendly GUI using Java Swing
 * Error handling for invalid inputs
+
 **Technologies Used**
 * Java
 * Java Swing (GUI)
